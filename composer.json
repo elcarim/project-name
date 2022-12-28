@@ -1,0 +1,9 @@
+{
+    "require": {
+        "monolog/monolog": "1.0.*",
+        "izniburak/pdox": "^1",
+        "mundschenk-at/php-typography": "^6.6",
+        "akh/typograf": "^0.4.5",
+        "emuravjev/mdash": "^0.2.1"
+   }
+}
